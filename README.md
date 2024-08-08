@@ -1,6 +1,6 @@
 # Bank Transaction Viewer
 
-A React application that displays a list of your recent bank transactions, along with other features like filtering, sorting, and detailed transaction views.
+building out a React application that displays a list of a recent bank transactions, among other features.
 
 ## Table of Contents
 
